@@ -14,8 +14,9 @@ This repo conatins a simple Docker-compose setup that consists of:
 
 Start with: `docker-compose up -d`.
 
-The Grafana dashboard will be available at `http://localhost:3000/dashboard/db/network-stats`.
+The Grafana dashboard will be available at `http://localhost:3000/dashboard/db/network-stats`. Use `admin` as username and password.
 Metrics should appear after a minute or so.
 
 PRs welcome.
 Good luck with that ISP!
+
